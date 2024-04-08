@@ -8,7 +8,7 @@
 ## About me
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nghuyn1512&theme=radical&hide_border=false)
 <br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghuyn1512&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nghuyn1512&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nghuyn1512&layout=compact\&theme=radical)
 
