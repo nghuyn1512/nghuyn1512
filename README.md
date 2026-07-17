@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nghuyn1512/count.svg" />
-</p>
 
 
 <h3 align="left">Connect with me:</h3>
